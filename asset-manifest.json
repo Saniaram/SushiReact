@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SushiReact/static/css/main.aff88b36.css",
+    "main.js": "/SushiReact/static/js/main.4db9f41b.js",
+    "static/js/787.4eab6a7f.chunk.js": "/SushiReact/static/js/787.4eab6a7f.chunk.js",
+    "static/media/sushi.jpg": "/SushiReact/static/media/sushi.a2b4b921ab28b2b3f6c7.jpg",
+    "index.html": "/SushiReact/index.html",
+    "main.aff88b36.css.map": "/SushiReact/static/css/main.aff88b36.css.map",
+    "main.4db9f41b.js.map": "/SushiReact/static/js/main.4db9f41b.js.map",
+    "787.4eab6a7f.chunk.js.map": "/SushiReact/static/js/787.4eab6a7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aff88b36.css",
+    "static/js/main.4db9f41b.js"
+  ]
+}
